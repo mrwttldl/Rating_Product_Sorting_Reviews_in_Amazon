@@ -1,14 +1,14 @@
-:thumbsup: :star:  Rating Product & Sorting Reviews in Amazon
+## :thumbsup: :star:  Rating Product & Sorting Reviews in Amazon
 
 ![](https://images.macrumors.com/t/_qmdaYkUBVoeJTa15trJmX-xVWc=/400x0/filters:quality(90)/article-new/2018/01/ios-11-review-sort.jpg?lossy)
 
 
- :file_folder:  Business Problem
+## :file_folder:  Business Problem
  
  Trying to calculate product ratings more accurately and ordering product reviews more accurately.
  
  
- :white_check_mark:  Dataset Information
+## :white_check_mark:  Dataset Information
 
 Our variables are :
 
